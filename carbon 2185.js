@@ -300,6 +300,7 @@ function main() {
 
 main();
 
+console.log("test");
 
 // const termsWorked = 3;
 
